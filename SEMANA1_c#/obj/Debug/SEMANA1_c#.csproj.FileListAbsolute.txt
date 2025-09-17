@@ -6,3 +6,11 @@ C:\Users\UPN\Downloads\PROYECTOS\FA_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.csproj.
 C:\Users\UPN\Downloads\PROYECTOS\FA_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.exe
 C:\Users\UPN\Downloads\PROYECTOS\FA_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.pdb
 C:\Users\UPN\Downloads\PROYECTOS\FA_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.exe.config
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\bin\Debug\SEMANA1_c#.exe.config
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\bin\Debug\SEMANA1_c#.exe
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\bin\Debug\SEMANA1_c#.pdb
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.exe.config
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.exe
+C:\Users\W10\Desktop\FA_2025\FA_2025_8454\SEMANA1_c#\obj\Debug\SEMANA1_c#.pdb
